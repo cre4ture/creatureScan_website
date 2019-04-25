@@ -1,0 +1,4 @@
+#
+# Script to delete old files!
+#
+find -not -name cron_deletefiles -delete -cmin +3 

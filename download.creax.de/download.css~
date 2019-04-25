@@ -1,0 +1,30 @@
+
+  
+html {
+     background-color: white;
+     }
+
+a, * {
+  color: black;
+  text-decoration: none;
+  }
+  
+a:link, a:visited {
+  text-decoration: underline;
+  }
+  
+td {
+   background-color: rgb(202,255,224);
+}
+
+table {
+  width: 100%;
+}
+
+.downloaditemhead td {
+  background-color: rgb(138,255,147);
+}
+
+.mainmenu {
+  background-color: rgb(138,255,147);	
+}
